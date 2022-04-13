@@ -5,3 +5,8 @@ For running the backend follow the following steps:
 
 For running the frontend follow the following steps:
 
+'''
+cd frontend
+npm run dev
+'''
+
